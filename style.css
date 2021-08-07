@@ -1,0 +1,16 @@
+body{
+text-align: center;
+background-color: black;
+}
+.great{
+font-family:inherit;
+    color: coral;
+}
+img{
+height: 500px;
+    width:1000px;
+}
+p{
+    color: white;
+
+}
